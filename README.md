@@ -1,38 +1,60 @@
 # Eric’s World — Portfólio Digital
 
-Bem-vindo ao meu portfólio digital! Aqui, apresento meu perfil profissional, habilidades técnicas e projetos de destaque de forma clara e interativa.
+Bem-vindo ao meu portfólio digital! Aqui apresento meu perfil profissional, habilidades técnicas e projetos, com foco em **Engenharia de Dados, Programação Backend e Análise de Dados**.
 
 ---
 
 ## Sobre Mim  
-Eu sou **Eric Donato**, estudante de **Bacharelado em Ciência da Computação** (3º semestre) pelo Centro Universitário Senac São Paulo. Programo desde 2022 e sempre fui fascinado por entender o que acontece por trás das telas que vemos. Essa jornada tem sido desafiadora e extremamente gratificante. :contentReference[oaicite:5]{index=5}
+
+Sou **Eric Donato**, estudante de **Bacharelado em Ciência da Computação** elo Centro Universitário Senac São Paulo. Desde 2022, venho construindo minha trajetória no universo da tecnologia, com especial interesse em **coleta, transformação, análise e gestão de dados**.
 
 ---
 
-## Serviços & Especialidades
+## Tecnologias & Habilidades  
 
-- **Habilidades Técnicas**  
-  - **C** – 93%  
-  - **C#** – 85%  
-  - **HTML / CSS / JavaScript** – 87%  
-  - **Go** – 47%  
-  - **Python** – 42% :contentReference[oaicite:8]{index=8}
+### Principais Competências  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Manipulação, limpeza e análise de dados; automação de processos; ETL.  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) Criação e gerenciamento de bancos relacionais; consultas otimizadas.  
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) Desenvolvimento estruturado e orientado a objetos.  
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) Base sólida em lógica, estruturas de dados e fundamentos de sistemas.  
 
 ---
 
-## Projetos em Destaque
+## Projetos em Destaque  
 
 - **Autômato (C#)**  
-  Um script que joga Magic Trick de forma automatizada utilizando lógica e design orientado a objetos.
-  
-- **Plano Cartesiano (p5.js)**  
-  Uma animação visual que representa as funções seno, cosseno, tangente e cotangente em um plano cartesiano. :contentReference[oaicite:9]{index=9}
+  Automação de um jogo Magic Trick utilizando POO.  
 
-Para ver mais detalhes, visite o site no GitHub Pages: https://ericdonat0.github.io/portfolio_eric/
+- **Plano Cartesiano (p5.js)**  
+  Visualização interativa de funções trigonométricas.  
+
+- **Análise de Dados (Python)** *(em desenvolvimento)*  
+  Scripts para análise e visualização de dados com relatórios automatizados.
+
+Explore mais no meu portfólio:  
+[**ericdonat0.github.io/portfolio_eric**](https://ericdonat0.github.io/portfolio_eric)
 
 ---
 
-## Como Usar
+## Roadmap Profissional  
+
+- **Atualmente domino:**  
+  - Python (Pandas, NumPy, Matplotlib)  
+  - SQL (consultas, joins, agregações)  
+  - C e C# (lógica e estruturas de dados)  
+
+- **Atualmente aprendendo:**  
+  - Processamento de dados em larga escala (Apache Spark)  
+  - Orquestração de pipelines (Apache Airflow)  
+  - Cloud Data (AWS, GCP ou Azure)  
+
+- **Futuro próximo:**  
+  - Engenharia de dados em ambiente distribuído  
+  - Data Warehousing e arquiteturas modernas de dados  
+
+---
+
+## Como Visualizar  
 
 1. Clone o repositório:  
    ```bash
