@@ -11,12 +11,6 @@ Eu sou **Eric Donato**, estudante de **Bacharelado em Ciência da Computação**
 
 ## Serviços & Especialidades
 
-- **UI Design**  
-  Criação de interfaces focadas em usabilidade e experiência visual eficazes. :contentReference[oaicite:6]{index=6}
-
-- **Desenvolvimento de Software / Backend**  
-  Planejamento, implementação e manutenção da lógica de servidores, criação de APIs, integração com bancos de dados e serviços externos. :contentReference[oaicite:7]{index=7}
-
 - **Habilidades Técnicas**  
   - **C** – 93%  
   - **C#** – 85%  
